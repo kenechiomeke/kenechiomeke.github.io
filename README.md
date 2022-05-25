@@ -1,6 +1,6 @@
 # kenechiomeke.github.io
 
-Repo to showcase my CV and projects I've worked on.
+Hello, thanks for visiting my website. Use the navigation bars or links below to find out more about me.
 
 
 ## About me
@@ -19,3 +19,23 @@ You can have a look at my professional journey and learn more about me on [Linke
 
 [^1]: Supported by the Petroleum Technology Development Trust Fund (PTDF)
 [^2]: Supported by the National Information Technology Development Agency (NITDA)
+
+
+## Projects and partnerships
+Have a look at the Projects tab for more.
+
+## Experience
+You can find out more in the Experience section.
+
+## Key Skills
+* Programming:
+* Scientific computing:
+* Operating systems:
+* Applications:
+* Soft skills:
+
+## Volunteering
+Have a look at the Volunteering tab for my experiences.
+
+## Achievements
+Notable achievements can be found in the Proud Of tab.
