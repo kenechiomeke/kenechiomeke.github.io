@@ -8,11 +8,9 @@ author: "Kenechi Omeke"
 # Brief bio
 {{ site.description }}
 
-You can find out more about me from the [About me](about) page.
+You can find out more about me using the relevant navigation buttons above 👆 .
 You can have a look at my professional journey and learn more about me on [LinkedIn](https://www.linkedin.com/in/kenomeke).
-A summary of my professional journey can be found at [about me](about.md).
-
-To get in touch, [shoot me an email](mailto:{{ site.email }}) or [find me on twitter]({{ site.twitter }}).
+To get in touch, [contact me](About)
 
 
 ## Education
@@ -54,4 +52,4 @@ Notable achievements can be found in the Proud Of tab.
 5. [Broadening Participation in Computing: Experiences of an online programming workshop for African Students](https://eprints.gla.ac.uk/267269/)
 
 {% include footer.html %}
-{% include links.md %}
+
