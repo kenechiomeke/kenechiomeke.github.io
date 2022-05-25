@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Welcome to my website"
+author: "Kenechi Omeke"
+---
+
 # Brief bio
 {{ site.description }}
 
