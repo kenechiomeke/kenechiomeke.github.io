@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to my website"
 author: "Kenechi Omeke"
 ---
+{% include navigation.html %}
 
 # Brief bio
 {{ site.description }}
