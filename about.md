@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 My name is Kenechi Omeke.
 
 I am communication engineer and PhD researcher in Electrical and Electronic Engineering at the University of Glasgow, 
@@ -6,3 +8,4 @@ My core competencies are in wireless communication (including 5G and beyond 5G) 
 intelligence which I have used in numerous leadership positions and has enabled me to work well with other people.
 
 {% include footer.html %}
+{% include links.md %}
