@@ -10,7 +10,7 @@ author: "Kenechi Omeke"
 
 You can find out more about me from the [About me](about) page.
 You can have a look at my professional journey and learn more about me on [LinkedIn](https://www.linkedin.com/in/kenomeke).
-A summary of my professional journey can be found at [about me](readme.md).
+A summary of my professional journey can be found at [about me](about.md).
 
 To get in touch, [shoot me an email](mailto:{{ site.email }}) or [find me on twitter]({{ site.twitter }}).
 
@@ -53,3 +53,4 @@ Notable achievements can be found in the Proud Of tab.
 4. [A Survey on Energy Optimization Techniques in UAV-Based Cellular Networks: From Conventional to Machine Learning Approaches](https://arxiv.org/abs/2204.07967)
 5. [Broadening Participation in Computing: Experiences of an online programming workshop for African Students](https://eprints.gla.ac.uk/267269/)
 
+{% include footer.html %}
