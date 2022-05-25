@@ -5,8 +5,10 @@ with a focus on wireless communication. My research looks at how to network the 
 My core competencies are in wireless communication (including 5G and beyond 5G) and IoT networking. I have strong cultural and emotional 
 intelligence which I have used in numerous leadership positions and has enabled me to work well with other people.
 
-
-## Get in touch
-- Email: [[{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [{{ site.twitter }}]({{ site.twitter }})
-- LinkedIn: [{{ site.linkedin }}]({{ site.linkedin }})
+<hr>
+<p>Get in touch</p>
+<ul>
+    <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <li>LinkedIn: <a href="{{ site.linkedin }}">{{ site.linkedin }}</a></li>
+    <li>Twitter: <a href="{{ site.twitter }}">{{ site.twitter }}</a></li>
+</ul>
