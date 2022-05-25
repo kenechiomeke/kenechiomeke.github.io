@@ -54,3 +54,4 @@ Notable achievements can be found in the Proud Of tab.
 5. [Broadening Participation in Computing: Experiences of an online programming workshop for African Students](https://eprints.gla.ac.uk/267269/)
 
 {% include footer.html %}
+{% include links.md %}
