@@ -1,9 +1,12 @@
-# About me
-I am communication engineer and PhD researcher in Electrical and Electronic Engineering at the University of Glasgow, with a focus on wireless communication. My research looks at how to network the internet-of-things (IoT) for underwater applications. My core competencies are in wireless communication (including 5G and beyond 5G) and IoT networking. I have strong cultural and emotional intelligence which I have used in numerous leadership
-positions and has enabled me to work well with other people.
+# Brief bio
+{{ site.description }}
 
+You can find out more about me from the [About me](about) page.
 You can have a look at my professional journey and learn more about me on [LinkedIn](https://www.linkedin.com/in/kenomeke).
 A summary of my professional journey can be found at [about me](readme.md).
+
+To get in touch, [shoot me an email](mailto:{{ site.email }}) or [find me on twitter]({{ site.twitter }}).
+
 
 ## Education
 1. University of Glasgow, UK – PhD in Electrical and Electronic Engineering, 2019-August 2022 [^1]
@@ -35,3 +38,11 @@ Have a look at the Volunteering tab for my experiences.
 
 ## Achievements
 Notable achievements can be found in the Proud Of tab.
+
+## Publications
+1. [DEKCS: A dynamic clustering protocol to prolong underwater sensor networks](https://ieeexplore.ieee.org/abstract/document/9336626)
+2. [The role of artificial intelligence driven 5G networks in COVID-19 outbreak: opportunities, challenges, and future outlook](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AVOJbh4AAAAJ&citation_for_view=AVOJbh4AAAAJ:u5HHmVD_uO8C)
+3. [Energy Optimisation through Path Selection for Underwater Wireless Sensor Networks](https://ieeexplore.ieee.org/abstract/document/9205429)
+4. [A Survey on Energy Optimization Techniques in UAV-Based Cellular Networks: From Conventional to Machine Learning Approaches](https://arxiv.org/abs/2204.07967)
+5. [Broadening Participation in Computing: Experiences of an online programming workshop for African Students](https://eprints.gla.ac.uk/267269/)
+
