@@ -6,6 +6,22 @@
   * Thesis: *Autonomous Networking for the Internet-of-Underwater Things*
       - President & co-founder: Glasgow University Engineering Technology Society
 
+### Projects
+DePWiSen
+
+### Public Engagement
+
+### Leadership
+
+
+### Volunteering
+
+
+### Summer Schools
+
+
+
+
 2. University of Manchester, UK – MSc in Communication Engineering (**Distinction**) 2014-2015 2
   * Dissertation topic: *Energy Efficient Device-to-Device Communication*
       - Delegate: Common Purpose Leadership Academy
