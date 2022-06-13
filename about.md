@@ -1,4 +1,8 @@
-{% include navigation.html %}
+---
+layout: default
+author: "Kenechi Omeke"
+---
+
 
 
 My name is Kenechi Omeke.
