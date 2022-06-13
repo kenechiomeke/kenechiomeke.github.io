@@ -3,7 +3,7 @@ layout: default
 author: "Kenechi Omeke"
 ---
 
-
+{% include navigation.html %}
 
 My name is Kenechi Omeke.
 
