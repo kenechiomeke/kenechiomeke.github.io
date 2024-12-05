@@ -1,3 +1,7 @@
+---
+title: Dr Kenechi Omeke
+---
+
 # Dr Kenechi Omeke
 ## Senior Data Scientist | AI Researcher | Climate Tech Expert
 
