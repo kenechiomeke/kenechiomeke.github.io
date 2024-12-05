@@ -1,11 +1,11 @@
 ---
 title: Dr Kenechi Omeke
+layout: default
 ---
 
 # Dr Kenechi Omeke
 ## Senior Data Scientist | AI Researcher | Climate Tech Expert
 
----
 ### Professional Summary
 Senior Data Scientist at the Office for National Statistics, leading development of a UN-hosted platform for climate-health statistics. Co-founder of Glen.AI, developing AI solutions for businesses. Research focuses on artificial intelligence applications in sustainability and climate technology.
 
@@ -17,14 +17,14 @@ Senior Data Scientist at the Office for National Statistics, leading development
 ### Research Interests
 - 🌍 AI for Climate Action
 - 🤖 Reinforcement Learning
-- 💡 Internet of Things (IoT)
+- 🌱 Internet of Things (IoT)
 - 🔋 Sustainable Energy Systems
 - 🗣️ Natural Language Processing
 
 ### Publications
-- [2023] "Towards a Sustainable Internet-of-Underwater-Things" - IEEE IoT Journal
+- [2023] "Towards a Sustainable Internet-of-Underwater-Things" - IEEE Sensors Journal
 - [2021] "DEKCS: Dynamic Clustering Protocol" - IEEE Sensors Journal
-- [View full publication list](https://scholar.google.com/citations?user=AVOJbh4AAAAJ&hl=en&oi=ao)
+[View full publication list](https://scholar.google.com/citations?user=AVQJbh4AAAAJ)
 
 ### Education
 - PhD, Electrical & Electronic Engineering (University of Glasgow)
@@ -42,20 +42,10 @@ Senior Data Scientist at the Office for National Statistics, leading development
    - Predictive analytics
    - Natural language interfaces
 
-3. **Edge AI Research**
-   - Resource-constrained devices
-   - Energy-efficient computing
-   - IoT optimization
-
-### Community Engagement
-- Data Science & IoT Lead, Computer Science Academy Africa
-- Technical Secretary, Nigerian Society of Engineers (Glasgow)
-- STEM Education Advocate & Mentor
-
 ### Connect
-- [LinkedIn](www.linkedin.com/in/kenomeke)
-- [Google Scholar](https://scholar.google.com/citations?user=AVOJbh4AAAAJ&hl=en&oi=ao)
-- [Email](mailomeke@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kenomeke)
+- [Google Scholar](https://scholar.google.com/citations?user=AVQJbh4AAAAJ)
+- [Email](mailto:mailomeke@gmail.com)
 
 ---
 *This website is under continuous development. Check back for updates!*
