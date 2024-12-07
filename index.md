@@ -7,7 +7,7 @@ layout: default
 ## Senior Data Scientist | AI Researcher | Climate Tech Expert
 
 ### Professional Summary
-Senior Data Scientist at the Office for National Statistics, leading development of a UN-hosted platform for climate-health statistics. Co-founder of Glen.AI, developing AI solutions for businesses. Research focuses on artificial intelligence applications in sustainability and climate technology.
+Senior Data Scientist at the Office for National Statistics, leading development of a UN-hosted platform for climate-health statistics. This £5m Wellcome Trust-funded project facilitates sharing official statistics on climate and health. My contributions include developing open-source tools, creating reproducible analytical pipelines (RAP), and collaborating with international partners to implement best practices in data science. With my team is committed to advancing climate science for global benefit and we are currently developing open-source packages to measure climate-health interactions. Co-founder of Glen.AI, developing open-source everyday AI solutions to democratise access to the powerful opportunities offered by emerging technologies. My research focuses on artificial intelligence applications in sustainability, the environment and climate.
 
 ### Current Work
 - **Technical Lead** - UN Global Platform for Climate-Health Statistics (ONS)
