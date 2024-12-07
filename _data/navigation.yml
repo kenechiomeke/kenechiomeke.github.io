@@ -1,0 +1,6 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  [rest of navigation items]
