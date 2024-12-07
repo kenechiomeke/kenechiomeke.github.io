@@ -1,9 +1,9 @@
 ---
-# title: Dr Kenechi Omeke
+title: Dr Kenechi Omeke
 layout: default
 ---
 
-# Dr Kenechi Omeke
+<!-- # Dr Kenechi Omeke -->
 ## Senior Data Scientist | AI Researcher | Climate Tech Expert
 
 ### Professional Summary
