@@ -1,5 +1,5 @@
 ---
-title: Dr Kenechi Omeke
+# title: Dr Kenechi Omeke
 layout: default
 ---
 
