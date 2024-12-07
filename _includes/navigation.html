@@ -1,0 +1,10 @@
+<nav class="site-nav">
+    <div class="nav-links">
+        <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+        <a href="/experience" {% if page.url == "/experience/" %}class="active"{% endif %}>Experience</a>
+        <a href="/research" {% if page.url == "/research/" %}class="active"{% endif %}>Research</a>
+        <a href="/publications" {% if page.url == "/publications/" %}class="active"{% endif %}>Publications</a>
+        <a href="/community" {% if page.url == "/community/" %}class="active"{% endif %}>Community</a>
+        <a href="/skills" {% if page.url == "/skills/" %}class="active"{% endif %}>Skills</a>
+    </div>
+</nav>

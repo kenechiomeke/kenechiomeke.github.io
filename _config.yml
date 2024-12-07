@@ -1,9 +1,13 @@
 # Create _config.yml
 title: Dr Kenechi Omeke
 description: AI Engineer & Climate Researcher
+baseurl: ""
 url: "https://kenechiomeke.github.io"
 author: Ken Omeke
 theme: minima  # or choose another theme
+
+
+# url: "https://kenomeke.github.io"
 
 # Social links
 github_username: kenechiomeke
