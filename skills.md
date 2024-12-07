@@ -1,6 +1,7 @@
 ---
 title: Skills & Achievements
 layout: page
+permalink: /skills/
 ---
 
 ## Technical Skills

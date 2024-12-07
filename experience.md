@@ -1,7 +1,9 @@
 ---
 title: Experience
 layout: page
+permalink: /experience/
 ---
+
 
 ## Current Roles
 
