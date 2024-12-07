@@ -1,6 +1,7 @@
 ---
 title: Publications & Research Output
 layout: page
+permalink: /publications/
 ---
 
 ## Selected Publications
@@ -22,6 +23,6 @@ layout: page
 
 ### Conference Presentations
 - Invited Speaker, IEEE Sensors Conference, Dallas 2022
-- University of Glasgow College of Science & Engineering PhD Induction, 2020-2022
+<!-- - University of Glasgow College of Science & Engineering PhD Induction, 2020-2022 -->
 
 [View complete list on [Google Scholar](https://scholar.google.com/citations?user=AVQJbh4AAAAJ)]

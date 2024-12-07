@@ -34,4 +34,4 @@ permalink: /skills/
 - Fully Funded International Scholarships:
   - PTDF Nigeria (PhD)
   - NITDEF Nigeria (MSc)
-  - ExxonMobil (Undergraduate)
+  - ExxonMobil, Total E & P, PTDF (Undergraduate)

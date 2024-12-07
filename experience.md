@@ -14,7 +14,7 @@ permalink: /experience/
 - Leading international collaboration with partners from Ghana, Rwanda, and UN agencies
 - Managing project-wide development practices and GitHub workspace
 
-### Co-Founder/CTO | Glen.AI
+### Co-Founder | Glen.AI
 **AI for Everyday Use** (June 2024 - Present)
 - Founded and leading technical development of AI accessibility startup
 - Developed LLM-powered conversational interfaces using LangChain and RAG

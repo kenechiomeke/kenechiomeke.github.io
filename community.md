@@ -1,6 +1,7 @@
 ---
 title: Community Engagement & Leadership
 layout: page
+permalink: /community/
 ---
 
 ## Academic Leadership
@@ -10,9 +11,9 @@ layout: page
 
 ## STEM Education & Mentoring
 ### Computer Science Academy Africa (2020 - Present)
-- Core team member and IoT Lead
-- Created Python for Data Science course
-- Designed IoT course using ESP32/Arduino
+- Core team member and Lead for IoT and Data Science tracks
+- Created Python for Data Science & Analysis course (2024/2025)
+- Designed Python for IoT course based on ESP32/Arduino and Raspberry Pi (2022)
 - Trained 100+ students across Africa
 
 ### Professional Mentoring
