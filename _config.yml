@@ -21,3 +21,13 @@ google_scholar: AVQJbh4AAAAJ
 
 # Additional settings
 show_excerpts: true
+
+collections:
+  projects:
+    output: true
+  publications:
+    output: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
