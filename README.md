@@ -9,7 +9,7 @@ Electrical and electronic engineer and senior data scientist working across comm
 ### Current Work
 - **Senior Data Scientist & SOSCHI Technical Lead** — Office for National Statistics
 - **Affiliate Researcher** — James Watt School of Engineering, University of Glasgow
-- **Co-Founder & Engineering Lead** — Voith AI Ltd
+- **Co-Founder** — Voith AI Ltd
 - **IoT Lead & Data Science Lead** — Computer Science Academy Africa
 
 ### Research Interests
