@@ -7,5 +7,11 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /news/
+  - title: "Tutorials"
+    url: /tutorials/
   - title: "Community"
     url: /community/
+  - title: "Skills"
+    url: /skills/
