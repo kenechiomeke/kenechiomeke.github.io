@@ -23,7 +23,6 @@ I am an electrical and electronic engineer and senior data scientist working acr
 - Technical lead for **SOSCHI** — a £5m Wellcome-funded climate-health platform hosted on the UN Global Platform.
 - Lead maintainer and platform developer of the [`climatehealth`](https://climate-health.officialstatistics.org) R package, **published on CRAN**, implementing six climate-health indicators **endorsed by the United Nations Statistical Commission** (57th session, New York, March 2026) for the Global Set of Environment and Climate Change Statistics.
 - PhD work on the Internet of Underwater Things (DEKCS clustering protocol, RL-based SWIPT) — *IEEE Sensors Journal* paper recognised among the most downloaded in its category, with **invited presentation at the IEEE Sensors Conference, Dallas**.
-- Completed two **Albyn Housing** smart-home engineering studies in the Scottish Highlands: a multi-sensor mould-risk forecasting system (24-hour AUC-ROC 0.851–0.957) and a privacy-preserving welfare monitoring system for lone elderly residents (F1 0.848 / 0.814; ~£200–300 per flat).
 - **Five major IEEE manuscripts** currently under review across *IEEE COMST*, *IEEE IoT Journal* (×2), *IEEE JOE*, and *IEEE JBHI*.
 - Over **360 Google Scholar citations** as of March 2026 (DEKCS cited 100+).
 
