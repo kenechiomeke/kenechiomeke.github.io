@@ -15,8 +15,8 @@ I am an electrical and electronic engineer and senior data scientist working acr
 
 - **Senior Data Scientist & SOSCHI Technical Lead** — Office for National Statistics
 - **Affiliate Researcher** — James Watt School of Engineering, University of Glasgow
-- **Co-Founder & Engineering Lead** — Voith AI Ltd
-- **IoT Lead (2021–) & Data Science Lead (2024–)** — Computer Science Academy Africa
+- **Co-Founder** — Voith AI Ltd
+- **IoT Lead (2021–2022) & Data Science Lead (2024–2025)** — Computer Science Academy Africa
 
 ### Highlights
 
