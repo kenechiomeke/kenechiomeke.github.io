@@ -14,7 +14,7 @@ I build engineering systems that perform reliably in constrained environments. T
 The Internet of Underwater Things (IoUT) is one of the most demanding application areas in wireless engineering — harsh acoustic channels, low bandwidth, high latency, and severe energy constraints. My PhD work introduced new clustering and routing protocols (**DEKCS**) that extended underwater sensor-network lifetime by over 70%, and reinforcement-learning approaches for simultaneous wireless information and power transfer (**SWIPT**) using AUVs.
 
 ### Smart Housing & Ambient Intelligence
-Working with **Albyn Housing** in the Scottish Highlands, I have completed two IoT systems studies for social housing with direct UK social value:
+Working with data from a social landlord in the Scottish Highlands, I have completed IoT systems studies for social housing with direct UK social value:
 
 - A **multi-sensor mould-risk forecasting system** that predicts risk 6–48 hours ahead (24-hour AUC-ROC 0.851–0.957, cross-home transfer up to 0.968) — enabling preventative ventilation and heating decisions.
 - A **non-intrusive welfare monitoring system** for lone elderly residents using per-appliance power monitoring, environmental sensing, radiator valve states, and circuit-level energy signals (F1 0.848 / 0.814; detection rates 87–100%; ~£200–300 per flat) — without cameras, microphones, or wearables.
@@ -38,7 +38,7 @@ At the ONS Global Supply Chains Intelligence Programme (Treasury-funded), I appl
 - Lead maintainer of the `climatehealth` R package on CRAN — implements UN-endorsed climate-health indicators.
 - UN Statistical Commission endorsement (March 2026, 57th session, New York).
 
-### Albyn Housing Smart-Home Engineering
+### Social Housing Smart-Home Engineering
 - Multi-sensor mould-risk forecasting and welfare monitoring for social housing in the Scottish Highlands.
 - Two manuscripts under review at *IEEE Internet of Things Journal* and *IEEE Journal of Biomedical and Health Informatics*.
 - Demonstrates affordable, privacy-preserving engineering for healthy housing and independent ageing.
