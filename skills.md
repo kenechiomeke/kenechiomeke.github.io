@@ -45,17 +45,17 @@ permalink: /skills/
 - Certified **Scrum Master**.
 - RAP (Reproducible Analytical Pipelines) advocate and trainer.
 - Stakeholder engagement across UN agencies, government, academia, housing, and healthcare partners.
-- Team leadership across distributed teams in the UK, Ghana, Rwanda, Nigeria, and Canada.
+- Team leadership across distributed teams in the UK, Ghana, and Rwanda.
 
 ---
 
 ## Awards & Honours
 
 - **UN Statistical Commission endorsement** of SOSCHI methods (57th session, New York, March 2026).
-- **Invited Speaker**, IEEE Sensors Conference, Dallas (following most-downloaded paper recognition).
+- **Invited Speaker**, IEEE Sensors Conference, Dallas (recognition for my IEEE Sensors journal paper being one of the most-downloaded papers from IEEE Xplore in Q1 2022).
 - **Winner**, 3-Minute Thesis Competition.
-- **Winner (£1,000)**, SPE PhD Poster Competition.
+- **Winner (£1,000)**, Systems, Power & Energy Division PhD Poster Competition, University of Glasgow (2019).
 - **Runner-up**, EPSRC Connected Everything Hackathon.
-- **PTDF Nigeria Doctoral Fellowship** — £142,780 from a pool of 50,000+ national applicants.
-- **NITDEF Nigeria Overseas MSc Scholarship**.
-- **Undergraduate merit scholarships**: ExxonMobil, PTDF, Total E&P, Addax Petroleum.
+- **PTDF Nigeria Doctoral Fellowship** — highly competitive international doctoral research scholarship (2018).
+- NITDEF Nigeria Overseas MSc Scholarship (2014).
+- **Undergraduate merit scholarships**: ExxonMobil, PTDF, Total E&P.
