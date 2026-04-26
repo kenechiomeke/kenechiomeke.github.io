@@ -14,17 +14,20 @@ permalink: /community/
 - Mentored several alumni into roles at the ONS, Oxford, and other institutions.
 
 ### Future Makers Lab — African Challenge Scotland, Glasgow
-- Co-designed and helped deliver a **10-week Saturday engineering and digital-making programme** for young people aged 11–16 from underrepresented communities in Glasgow.
+- Designed a Saturday engineering and digital-making programme for young people aged 11–16 from underrepresented communities in Glasgow.
 - Programme covers electronics, micro:bit, ESP32, IoT prototyping, family maker days, and community showcases.
 
 ### Nigerian Society of Engineers, Glasgow Chapter
 - **Technical Secretary**.
+- Organise a monthly technical webinar series on engineering topics of interest to members.
+- Plan technical visits to engineering firms operating in the UK to deepen technical expertise of members and facilitate integration, community and working relationships with engineering firms in the UK.
 - Developed STEM partnership proposals and showcase activities with African Challenge Scotland.
 
 ### Professional Mentoring
 - **Mentor** — ONS Graduate Data Science Programme.
-- **Mentor** — Analysis in Government Mentoring Scheme.
+- **Mentor** — Analysis in Government Month.
 - **STEM Tutor** — African Challenge Scotland.
+- **Nigerian Society of Engineers** — STEM Outreach Committee.
 
 ---
 
