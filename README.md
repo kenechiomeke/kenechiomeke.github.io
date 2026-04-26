@@ -1,7 +1,7 @@
 # Dr Kenechi Omeke
 ## Senior Data Scientist | Communications & IoT Engineer | AI & Climate-Tech Researcher | Climate-Health Platform Lead
 
-Personal academic website. Built with Jekyll + minima theme; deployed via GitHub Pages at [kenechiomeke.github.io](https://kenechiomeke.github.io).
+Personal website. Built with Jekyll + minima theme; deployed via GitHub Pages at [kenechiomeke.github.io](https://kenechiomeke.github.io).
 
 ### Professional Summary
 Electrical and electronic engineer and senior data scientist working across communications, Internet of Things, cyber-physical systems, AI, and climate-health infrastructure. Senior Data Scientist & SOSCHI Technical Lead at the UK Office for National Statistics, leading the engineering of a £5m Wellcome-funded climate-health platform hosted on the UN Global Platform. Affiliate Researcher at the James Watt School of Engineering, University of Glasgow. Co-Founder of Voith AI Ltd. Lead maintainer and platform developer of the [`climatehealth`](https://climate-health.officialstatistics.org) R package on CRAN.
@@ -21,6 +21,7 @@ Electrical and electronic engineer and senior data scientist working across comm
 - Internet of Underwater Things (IoUT)
 
 ### Featured Publications
+- K. G. Omeke et al., "Energy-Efficient Hierarchical Federated Anomaly Detection for the Internet of Underwater Things via Selective Cooperative Aggregation," under review for *IEEE Internet of Things Journal*, 2026. 
 - K. G. Omeke et al., "Towards a Sustainable Internet-of-Underwater-Things based on AUVs, SWIPT and Reinforcement Learning," *IEEE Internet of Things Journal*, 2024.
 - K. G. Omeke et al., "DEKCS: A Dynamic Clustering Protocol to Prolong Underwater Sensor Networks," *IEEE Sensors Journal*, 2021. (106+ citations)
 - K. G. Omeke et al., "How Reinforcement Learning is Helping to Solve Internet-of-Underwater-Things Problems," *IEEE IoT Magazine*, 2022.
